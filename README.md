@@ -1,7 +1,7 @@
 # Note Taker
 
 ## Description
-    As a small business owner, I want the ability to write and save notes. This will help me organize my thoughts and keep track of tasks that I need to complete.
+As a small business owner, I want the ability to write and save notes. This will help me organize my thoughts and keep track of tasks that I need to complete.
 
 ## Table of Contents
  * [Installation](#installation)
@@ -12,12 +12,12 @@
         
         
 ## Installation
-    To install the necessary dependencies the user shpuld run the following command:
+To install the necessary dependencies the user shpuld run the following command:
     npm i
         
         
 ## Usage
-    The application is live and running in the demonstration section.
+The application is live and running in the demonstration section.
     App powered by Heroku
    
    
