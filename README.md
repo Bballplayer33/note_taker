@@ -18,6 +18,7 @@ To install the necessary dependencies the user shpuld run the following command:
         
 ## Usage
 The application is live and running in the demonstration section.
+    
     App powered by Heroku
    
    
